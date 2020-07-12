@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-  cout << "\n Sunday";
-  return 0;
+   cout << "\n Count down";
+   cout << "\n Sunday";
+   return 0;
 }
