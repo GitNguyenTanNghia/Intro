@@ -8,5 +8,6 @@ int main()
 	cin >> n;
    cout << "\n Count down";
    cout << "\n Sunday";
+   Tan dep trai
    return 0;
 }
