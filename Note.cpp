@@ -4,8 +4,9 @@ using namespace std;
 
 int main()
 {
-	int n;
-	cout << "\n Hello World!";
+  int n;
 	cin >> n;
-	return 0;
+   cout << "\n Count down";
+   cout << "\n Sunday";
+   return 0;
 }
